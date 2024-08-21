@@ -5,8 +5,11 @@ Obtaining the load distribution and radial deformations of planetary roller scre
 • Highlights 
 
 • A multi-roller beam-bar-spring (MR-BBS) model is developed that incorporate axial load, radial load, turning torque and thread modification. 
+
 • The load distribution of threads and load sharing among rollers of a PRSM under different external loads and cycling process are analyzed. 
+
 • The load distribution is more sensitive to turning torque of screw but relatively insensitive to the radial load. 
+
 • The variable lead PRSM is proposed so that the uniformity of load sharing with complex load can be optimized.
 
 doi: http://dx.doi.org/10.1080/15397734.2022.2162080
